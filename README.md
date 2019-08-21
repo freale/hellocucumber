@@ -5,6 +5,6 @@ Pre-requisitos
 - Java y Maven instalados
 
 Para ejecutar
-- git clone
+- git clone https://github.com/freale/hellocucumber.git
 - cd hellocucumber
 - mvn test
